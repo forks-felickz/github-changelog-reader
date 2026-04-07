@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-04-03-organization-runner-controls-for-copilot-cloud-agent
+https://github.blog/changelog/2026-04-07-code-scanning-batch-apply-security-alert-suggestions-on-pull-requests
