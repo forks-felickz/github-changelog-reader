@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-06-09-periodic-code-scanning-of-inactive-repositories
+https://github.blog/changelog/2026-06-10-dedicated-security-review-command-now-available-in-copilot-cli
