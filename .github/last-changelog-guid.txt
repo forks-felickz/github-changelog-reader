@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-08-04-codeql-2-26-2-adds-swift-6-3-3-and-kotlin-2-4-10-support
+https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale
