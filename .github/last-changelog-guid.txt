@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-09-03-codeql-2-26-4-improves-github-actions-security-detections
+https://github.blog/changelog/2026-09-03-multiple-trusted-publishing-configurations-for-npm
