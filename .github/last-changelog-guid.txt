@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-09-09-remediate-code-quality-findings-with-agentic-autofix
+https://github.blog/changelog/2026-09-09-codeql-2-27-0-adds-support-for-linux-arm64
