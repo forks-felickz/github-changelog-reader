@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default
+https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api
