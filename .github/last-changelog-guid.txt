@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts
+https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api
